@@ -4,3 +4,13 @@
 2025-12-23 17:02:58 INFO  Utils:112 - [TestNG] Running:
   C:\Users\Sarada\OpenCartAutomation\OpenCartV001\masterSuite.xml
 
+2025-12-23 18:28:12 INFO  TC001_AccountRegistrationTest:21 -  ------ Started executing TC001_AccountRegistrationTest ------
+2025-12-23 18:28:13 INFO  TC001_AccountRegistrationTest:25 - Clicked on My Account
+2025-12-23 18:28:13 INFO  TC001_AccountRegistrationTest:27 - Clicked on Register
+2025-12-23 18:28:14 INFO  TC001_AccountRegistrationTest:41 - Clicked on continue
+2025-12-23 18:28:14 INFO  TC001_AccountRegistrationTest:46 - ----- Completed test-----
+2025-12-23 18:28:18 INFO  TC001_AccountRegistrationTest:21 -  ------ Started executing TC001_AccountRegistrationTest ------
+2025-12-23 18:28:19 INFO  TC001_AccountRegistrationTest:25 - Clicked on My Account
+2025-12-23 18:28:19 INFO  TC001_AccountRegistrationTest:27 - Clicked on Register
+2025-12-23 18:28:20 INFO  TC001_AccountRegistrationTest:41 - Clicked on continue
+2025-12-23 18:28:20 INFO  TC001_AccountRegistrationTest:46 - ----- Completed test-----
