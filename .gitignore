@@ -1,0 +1,15 @@
+# Maven
+target/
+
+# TestNG / Reports
+test-output/
+reports/
+logs/
+
+# Compiled files
+*.class
+
+# IDE
+.classpath
+.project
+.settings/
