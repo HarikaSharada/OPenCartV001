@@ -3,6 +3,7 @@
 This project is a custom-built Selenium Test Automation Framework developed to automate key functional and end-to-end scenarios of the OpenCart (TutorialsNinja) web application.Design Approach
 
 ✨ Key Highlights
+
   ✅ Page Object Model (POM)
   ⚙️ Config-driven execution (no hardcoding)
   🖥️ Local execution support
