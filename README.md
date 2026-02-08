@@ -8,19 +8,25 @@ This project is a custom-built Selenium Test Automation Framework developed to a
   ⚙️ Config-driven execution (no hardcoding)  
   🖥️ Local execution support  
   🌐 Selenium Grid (RemoteWebDriver)  
-  📊 Extent Reports & Log4j2 logging
-  
+  📊 Extent Reports & Log4j2 logging  
   🧪 Reusable test data utilities
 
 🛠️ Technology Stack
+
    Language: Java
+   
    Automation Tool: Selenium WebDriver
+   
    Test Framework: TestNG
+   
    Build Tool: Maven
+   
    Design Pattern: Page Object Model (POM)
    Reporting: Extent Reports
+   
    Logging: Log4j2
    Test Data: Apache Commons (Random data generation)
+   
    Execution Support: Local execution & Selenium Grid (RemoteWebDriver)
 
 🧱 Framework Design
