@@ -5,10 +5,15 @@ This project is a custom-built Selenium Test Automation Framework developed to a
 ✨ Key Highlights
 
   ✅ Page Object Model (POM)
+  
   ⚙️ Config-driven execution (no hardcoding)
+  
   🖥️ Local execution support
+  
   🌐 Selenium Grid (RemoteWebDriver)
+  
   📊 Extent Reports & Log4j2 logging
+  
   🧪 Reusable test data utilities
 
 🛠️ Technology Stack
