@@ -33,9 +33,7 @@ This project is a custom-built Selenium Test Automation Framework developed to a
 📊 Reporting & Logging
 
 📈 Extent Reports for execution summary
-
 📸 Screenshots captured automatically on failures
-
 📝 Log4j2 for detailed execution logs
 
 ✅ Automated Scenarios
@@ -48,15 +46,11 @@ This project is a custom-built Selenium Test Automation Framework developed to a
 🚀 Future Enhancements
 
 🔁 Retry mechanism for flaky tests
-
 ⚡ Parallel execution improvements
-
 🔗 CI/CD integration
-
 ☁️ Cloud-based Selenium Grid
 
 👩‍💻 Author
 
-   Harika Sarada Simhadri
-   
+   Harika Sarada Simhadri   
    Automation Tester | Selenium | Java | TestNG
