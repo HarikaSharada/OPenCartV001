@@ -38,9 +38,9 @@ This project is a custom-built Selenium Test Automation Framework developed to a
 
 ✅ Automated Scenarios
 
-   Account Registration
-   Login Validation
-   Data-driven Login
+   Account Registration   
+   Login Validation   
+   Data-driven Login   
    End-to-end user flows
 
 🚀 Future Enhancements
