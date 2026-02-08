@@ -30,11 +30,6 @@ This project is a custom-built Selenium Test Automation Framework developed to a
    UI locators are isolated from test logic
    Improves readability and maintenance
 
-📊 Reporting & Logging
-
-📈 Extent Reports for execution summary
-📸 Screenshots captured automatically on failures
-📝 Log4j2 for detailed execution logs
 
 ✅ Automated Scenarios
 
@@ -42,6 +37,12 @@ This project is a custom-built Selenium Test Automation Framework developed to a
    Login Validation   
    Data-driven Login   
    End-to-end user flows
+
+📊 Reporting & Logging
+
+📈 Extent Reports for execution summary
+📸 Screenshots captured automatically on failures
+📝 Log4j2 for detailed execution logs
 
 🚀 Future Enhancements
 
