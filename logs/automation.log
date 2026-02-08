@@ -1,0 +1,51 @@
+2026-02-08 17:22:24 INFO  Utils:112 - [TestNG] Running:
+  C:\Users\Sarada\OpenCartAutomation\OpenCartV001\masterSuite.xml
+
+2026-02-08 17:22:25 INFO  LoginTest:63 - Execution Environment: local
+2026-02-08 17:22:25 INFO  LoginTest:64 - Application Environment: qa
+2026-02-08 17:22:25 INFO  LoginTest:65 - Browser: Chrome
+2026-02-08 17:22:25 INFO  LoginTest:66 - OS: Windows
+2026-02-08 17:22:31 INFO  AccountRegistrationTest:63 - Execution Environment: local
+2026-02-08 17:22:31 INFO  AccountRegistrationTest:64 - Application Environment: qa
+2026-02-08 17:22:31 INFO  AccountRegistrationTest:65 - Browser: Chrome
+2026-02-08 17:22:31 INFO  AccountRegistrationTest:66 - OS: Windows
+2026-02-08 17:23:25 INFO  Utils:112 - [TestNG] Running:
+  C:\Users\Sarada\OpenCartAutomation\OpenCartV001\masterSuite.xml
+
+2026-02-08 17:23:25 INFO  LoginTest:63 - Execution Environment: local
+2026-02-08 17:23:25 INFO  LoginTest:64 - Application Environment: qa
+2026-02-08 17:23:25 INFO  LoginTest:65 - Browser: Chrome
+2026-02-08 17:23:25 INFO  LoginTest:66 - OS: Windows
+2026-02-08 17:36:21 INFO  Utils:112 - [TestNG] Running:
+  C:\Users\Sarada\OpenCartAutomation\OpenCartV001\masterSuite.xml
+
+2026-02-08 17:36:22 INFO  LoginTest:63 - Execution Environment: local
+2026-02-08 17:36:22 INFO  LoginTest:64 - Application Environment: qa
+2026-02-08 17:36:22 INFO  LoginTest:65 - Browser: Chrome
+2026-02-08 17:36:22 INFO  LoginTest:66 - OS: Windows
+2026-02-08 17:39:15 INFO  Utils:112 - [TestNG] Running:
+  C:\Users\Sarada\OpenCartAutomation\OpenCartV001\masterSuite.xml
+
+2026-02-08 17:39:15 INFO  LoginTest:63 - Execution Environment: local
+2026-02-08 17:39:15 INFO  LoginTest:64 - Application Environment: QA
+2026-02-08 17:39:15 INFO  LoginTest:65 - Browser: Chrome
+2026-02-08 17:39:15 INFO  LoginTest:66 - OS: Windows
+2026-02-08 17:39:19 INFO  LoginTest:113 - Launching application URL for QA environment
+2026-02-08 17:39:57 INFO  Utils:112 - [TestNG] Running:
+  C:\Users\Sarada\OpenCartAutomation\OpenCartV001\masterSuite.xml
+
+2026-02-08 17:39:57 INFO  LoginTest:63 - Execution Environment: local
+2026-02-08 17:39:57 INFO  LoginTest:64 - Application Environment: QA
+2026-02-08 17:39:57 INFO  LoginTest:65 - Browser: Chrome
+2026-02-08 17:39:57 INFO  LoginTest:66 - OS: Windows
+2026-02-08 17:40:00 INFO  LoginTest:113 - Launching application URL for QA environment
+2026-02-08 17:40:04 INFO  AccountRegistrationTest:63 - Execution Environment: local
+2026-02-08 17:40:04 INFO  AccountRegistrationTest:64 - Application Environment: QA
+2026-02-08 17:40:04 INFO  AccountRegistrationTest:65 - Browser: Chrome
+2026-02-08 17:40:04 INFO  AccountRegistrationTest:66 - OS: Windows
+2026-02-08 17:40:06 INFO  AccountRegistrationTest:113 - Launching application URL for QA environment
+2026-02-08 17:40:06 INFO  AccountRegistrationTest:22 -  ------ Started executing TC001_AccountRegistrationTest ------
+2026-02-08 17:40:07 INFO  AccountRegistrationTest:26 - Clicked on My Account
+2026-02-08 17:40:08 INFO  AccountRegistrationTest:28 - Clicked on Register
+2026-02-08 17:40:11 INFO  AccountRegistrationTest:42 - Clicked on continue
+2026-02-08 17:40:11 INFO  AccountRegistrationTest:47 - ----- Completed test-----
