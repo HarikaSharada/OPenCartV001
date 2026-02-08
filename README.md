@@ -4,8 +4,7 @@ This project is a custom-built Selenium Test Automation Framework developed to a
 
 ✨ Key Highlights
 
-  ✅ Page Object Model (POM)
-  
+  ✅ Page Object Model (POM)  
   ⚙️ Config-driven execution (no hardcoding)
   
   🖥️ Local execution support
