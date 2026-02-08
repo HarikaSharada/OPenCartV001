@@ -25,8 +25,8 @@ This project is a custom-built Selenium Test Automation Framework developed to a
 
 🧱 Framework Design
 
-   Page Object Model
-   Each application page has a dedicated class
+   Page Object Model   
+   Each application page has a dedicated class   
    UI locators are isolated from test logic
    Improves readability and maintenance
 
